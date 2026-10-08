@@ -26,7 +26,7 @@ User LD1 (green) - PC7
 User LD2 (blue) - PB7
 User LD3 (red) - PB14
 
-These pins are configured GPIOs and the associated ports are C and B.
+These pins are configured GPIOs which means they are general input output pins and the associated ports are C and B.
 They should be configured as an output because we are driving them high/low such as the result we get is that they turn on and off. Output meaning that they are doing a reaction.
 
 4) Blinking LED (in Assembly!)
