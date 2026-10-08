@@ -8,6 +8,8 @@ Deliverables:
 - When we flash the C code we wrote the complier coverts C into machine code and creates a binary file. On the MCU the memory that gets wrtten is NVS. STM32CubeIDE communicates to the board with ST-LINK (thats why if the board is not plugged in it will say ST-LINK not found).
 
 On webstie it says "STM32 Nucleo-144 board does not require any separate probe as it integrates the ST-LINK debugger/programmer"
+
+
 - Screenshot
 ![debugger pic](https://github.com/qv123456/ee186-lab1/blob/main/part2-flashing-and-debugging-code/variables%20in%20debugger.png?raw=true)
 
@@ -20,7 +22,7 @@ Screenshot of debugger
 ![debugger RCC](https://github.com/qv123456/ee186-lab1/blob/main/part3-blinking-LEDs/rcc_screenshot.png?raw=true)
 
 Video:
-[![blinking video](thumbnail.jpg)](https://githubusercontent.com)
+https://drive.google.com/file/d/1EMB12g-qLWZw0ZIwz1dn3RmUcMssAQS2/view?usp=sharing
 
 User LD1 (green) - PC7
 User LD2 (blue) - PB7
